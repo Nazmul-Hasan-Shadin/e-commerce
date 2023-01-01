@@ -1,0 +1,35 @@
+.container{
+    margin: 0px 120px ;
+   
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 10px 12px;
+}
+img{
+    max-width: 100%;
+}
+.card{
+    border: none;
+  
+}
+.bg{
+    background-image:url("/images/bg-2.png");
+}
+.single-img{
+
+    height: 154px;
+    width: 40 px;
+    box-shadow: 2px 2px 4px;
+    margin: 10px;
+}
+.nav{
+   
+    
+}
+
+.carousell{
+    margin-top: 110px;
+
+}
