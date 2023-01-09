@@ -2,6 +2,10 @@
     margin: 0px 120px ;
    
 }
+.carousel-control-next, .carousel-control-prev {
+display:none;
+
+}
 .buy-now-button{
     background-color: black;
     color: white;
